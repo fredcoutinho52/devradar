@@ -1,6 +1,6 @@
 # Devradar
 
-Aplicação seguindo o projeto da Semana Omnistack 10.0
+Aplicação desenvolvida seguindo o projeto da Semana Omnistack 10.0
 
 ## Ferramentas utilizadas
 
